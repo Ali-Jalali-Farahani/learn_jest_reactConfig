@@ -12,6 +12,10 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "react-jsx",
+    "types": [
+      "@testing-library/jest-dom",
+      "node"
+    ],
     "incremental": true,
     "plugins": [
       {
